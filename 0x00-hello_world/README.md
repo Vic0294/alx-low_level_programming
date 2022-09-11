@@ -1,1 +1,1 @@
-Write a script that runs
+Write a script that compiles
