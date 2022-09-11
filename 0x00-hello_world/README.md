@@ -1,1 +1,1 @@
-Write a script that compiles
+Write a script that generates the assembly code
