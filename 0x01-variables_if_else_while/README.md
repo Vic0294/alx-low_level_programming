@@ -1,1 +1,1 @@
-This program will assign a random number to the variable n each time it is executed. Complete the source code
+Write a program that prints all possible combinations of single-digit numbers
