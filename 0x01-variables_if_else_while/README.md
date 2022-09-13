@@ -1,1 +1,1 @@
-Write a program that prints all single digit numbers of base
+Write a program that prints the lowercase alphabet in reverse, followed by a new line
