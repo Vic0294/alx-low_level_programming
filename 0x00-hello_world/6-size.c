@@ -3,7 +3,7 @@
 * main - Print sized characters
 * Return: Always 0 (success)
 */
-int main (void)
+int main(void)
 
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char)0;
