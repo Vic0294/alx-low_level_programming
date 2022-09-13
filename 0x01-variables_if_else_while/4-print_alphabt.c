@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: prints lowercase alphabets
- * Return: Always 0 (success)
+ * Return: Always o (success)
  */
 int main(void)
 {
@@ -13,7 +13,7 @@ int main(void)
 	{
 		if (ch != 'e' && ch != 'q')
 		{
-			putchar(ch));
+			putchar(ch);
 		}
 		else
 		{
